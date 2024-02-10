@@ -1,4 +1,4 @@
-# BlackPandaWin DERO
+# BlackPandaWin DERO | Installation
 
 <br> 1- Cliquez sur l'onglet "Code" en Bleu et selectionnez "Download Zip"
 
